@@ -22,6 +22,8 @@ streamlit run dashboard.py
 ```
 
 ## Preview
+![image](https://github.com/user-attachments/assets/007f2b19-282a-48b8-849e-638d8116b845)
+
 
 
 
